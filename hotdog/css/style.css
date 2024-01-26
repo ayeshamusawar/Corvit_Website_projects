@@ -1,0 +1,249 @@
+@font-face{
+    src: url('../fonts/DimorInlineA.otf');
+    font-family: dimor;
+    color:  #ba8d5f;
+
+}
+.header{
+    background-image: url('../images/BackgroundImage.png');
+    height: 100vh;
+    
+}
+
+.express{
+    color: #ba8d5f;
+    font-size: 20px;
+    display: flex;
+
+}
+.no{
+    color: #ba8d5f; 
+    /* position: relative;
+    right: 0; */
+    font-size: 28px;
+    font-weight: bold;
+}
+.h1{
+    color: #ba8d5f; 
+    background-color: #614a33;
+}
+.h{
+    color: #ba8d5f; 
+}
+.navbar a.disabled{
+    color: #ba8d5f; 
+}
+
+
+.a{
+    color: #ba8d5f;
+    font-size: 7vw;
+    font-family: dimor;
+}
+.b{
+    color:  #ba8d5f;
+    font-size: 6vw;
+    font-family: dimor;
+    
+}
+.hotdog{
+    margin-top: -40px;
+    margin-top: 5px;
+    color: #7C5F41;
+    font-size: 16px;
+    font-weight: bold;
+    width: 190px;
+}
+.text1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dollor{
+    color: #ba8d5f;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+} 
+.ten{
+     color: #ba8d5f;
+     margin-left: 2vw;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: dimor;
+}
+.header1{
+    background-color:  #282106; 
+}
+.taste{
+    color:  #ba8d5f;
+   
+}
+.enjoy{
+    color:  #ba8d5f;
+    font-size: 4vw;
+    font-family: dimor;
+}
+.p1{
+    color:  #ba8d5f;
+    font-size: 1vw;
+}
+.heading1{
+    font-size: 2vw;
+    font-weight: bold;
+    color:  #ba8d5f;
+}
+.p2{
+    color:  #ba8d5f;
+}
+/* .text{
+    background-color: blue;
+} */
+
+
+.header3{
+    background-color: #282106;
+}
+.img3{
+   width: 80%;
+   height: 60vh;
+    margin-left: 8vw;
+    margin-top: 7vw;
+   
+}
+.img2{
+    margin-top: 7vw;
+    margin-right: 7vw;
+}
+.taste1{
+    font-weight: bold;
+    font-size: 25px;
+    color: #614a33;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.p2{
+   color:  #ba8d5f;
+   font-size: 1vw;
+}
+.header4{
+    background-color: #282106;
+
+}
+/* .header-bg{
+    background-image: url('../images/FormSideImage.png');
+} */
+.box1{
+    position: absolute;
+    left: 180px;
+    margin-top: 150px;
+    color: #614a33;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box2{
+    position: relative;
+
+}
+.box3{
+    width: 80px;
+    height: 20px;
+    position: absolute;
+    margin-left: 185px; 
+    margin-top: 188px;
+    color: #ba8d5f;
+    font-family: dimor;
+   font-size: 60px;
+
+}
+.smbox1{
+    /* width: 10px;
+    height: 10px; */
+    position: absolute;
+    left: 30px;
+    margin-top: 40px;
+    color: #614a33;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.smbox2{
+    position: relative;
+   
+}
+.smbox3{
+    width: 170px;
+    height: 50px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 70px;
+    color: #ba8d5f;
+    font-size: 50px;
+    font-family: dimor;
+
+}
+.eventbox1{
+    
+    position: absolute;
+    left: 700px;
+    margin-top: 380px;
+    color: #ba8d5f;
+    font-weight: bold;
+    font-family: dimor;
+}
+.eventbox2{
+    position: relative;
+    /* width: 700px;
+    height: 500px; */
+
+}
+.input{
+    background-color: #282106;
+    border-color: #ba8d5f;
+    height: 8vh;
+    margin-left: 60px;
+    margin-top: 60px;
+
+}
+.input::placeholder{
+    color: #ba8d5f;
+}
+
+.input1{
+    background-color: #ba8d5f;
+    border-color: #ba8d5f;
+    height: 8vh;
+    margin-top: 60px;
+    margin-left: 60px;
+    font-family: dimor;
+    font-size: 20px;
+}
+.input1::placeholder{
+    color: aliceblue;
+}
+.last{
+    margin-left: 100px;
+}
+.last1{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.lc{
+    margin-top: 200px;
+    margin-right: 350px;
+}
+.lasth1{
+    color: white;
+    font-size: 13px;
+}
+.lasth2{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.road{
+    margin-top: 10vw;
+
+}
+.road1{
+    margin-top: 2vw;
+
+}
